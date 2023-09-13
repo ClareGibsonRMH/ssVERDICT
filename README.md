@@ -2,7 +2,7 @@
 
 This code relates to the publication ssVERDICT: Self-Supervised VERDICT-MRI for Enhanced Prostate Tumour Characterisation by Snigdha Sen et al.
 
-A preprint is available at:
+A preprint is available at: https://arxiv.org/abs/2309.06268
 
 This code fits the Vascular, Extracellular and Restricted DIffusion for Cytometry in Tumours (VERDICT)-MRI model for prostate using self-supervised deep learning, adapted from https://github.com/sebbarb/deep_ivim.
 
